@@ -1,0 +1,28 @@
+class MycustomException extends Exception
+{
+    public MycustomException(String message)
+    {
+        System.out.println("custom exception: " +message);
+    }
+}
+
+public class main
+{
+    public static void main(String[]args)
+    {
+        try
+        {
+            int age =20;
+            if (age<18)
+            {
+                throw new MycustomException("must have greaterthan 18");
+            }
+            System.out.println("welcome you are eligible");
+        }
+        catch (MycustomException e)
+        {
+            System.out.println("caught custem exception");
+        }
+        
+    }
+}

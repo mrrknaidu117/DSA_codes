@@ -1,0 +1,143 @@
+public class multiplecatchexample
+{
+    public static void main(String[]args)
+    {
+        try
+        {
+            int[] numbers ={1,2,3,4,5};
+            int result = numbers[4] /0;
+        }
+        catch(ArithmeticException e)
+        {
+            System.out.println("ArithmeticException caught : " +e.getMessage());
+        }
+        catch(ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("ArrayIndexOutofBoundsException caught : " +e.getMessage());
+        }
+        catch(Exception e)
+        {
+         System.out.println("Exception caught : " +e.getMessage());   
+        }
+        System.out.println("program continues after exception handling.");
+    }
+}
+
+
+
+output:
+ArithmeticException caught : / by zero
+program continues after exception handling.
+
+
+
+
+code difference:
+
+
+public class multiplecatchexample
+{
+    public static void main(String[]args)
+    {
+        try
+        {
+            int[] numbers ={1,2,3,4};
+            int result = numbers[4] /0;
+        }
+        catch(ArithmeticException e)
+        {
+            System.out.println("ArithmeticException caught : " +e.getMessage());
+        }
+        catch(ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("ArrayIndexOutofBoundsException caught : " +e.getMessage());
+        }
+        catch(Exception e)
+        {
+         System.out.println("Exception caught : " +e.getMessage());   
+        }
+        System.out.println("program continues after exception handling.");
+    }
+}
+
+
+output:
+ArrayIndexOutofBoundsException caught : Index 4 out of bounds for length 4
+program continues after exception handling.
+
+
+code with string null:
+
+public class multiplecatchexample
+{
+    public static void main(String[]args)
+    {
+        try
+        {
+            String input =null;
+            int lenght =input.length();
+        }
+        catch(NullPointerException e)
+        {
+            System.out.println("NullPointerException caught : " +e.getMessage());
+        }
+        catch(ArithmeticException e)
+        {
+            System.out.println("ArithmeticException caught : " +e.getMessage());
+        }
+        catch(Exception e)
+        {
+         System.out.println("Exception caught : " +e.getMessage());   
+        }
+        System.out.println("program continues after exception handling.");
+    }
+}
+
+output:
+
+NullPointerException caught : Cannot invoke "String.length()" because "<local1>" is null
+program continues after exception handling.
+
+
+
+try..catch..finally:
+
+
+public class multiplecatchexample
+{
+    public static void main(String[]args)
+    {
+        try
+        {
+            int[] numbers ={1,2,3};
+            int result = numbers[4];
+            System.out.println("result :" +result);
+        }
+         catch(ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("ArrayIndexOutofBoundsException caught : " +e.getMessage());
+        }
+        try
+        {
+            int x=10/0;
+            System.out.println("result :"+x);
+        }
+        catch(ArithmeticException e)
+        {
+            System.out.println("ArithmeticException caught : " +e.getMessage());
+        }
+       finally{
+        System.out.println("finally block executed.");
+    }
+    System.out.println("program continues..");
+}
+}
+
+
+output:
+
+ArrayIndexOutofBoundsException caught : Index 4 out of bounds for length 3
+ArithmeticException caught : / by zero
+finally block executed.
+program continues..
+
