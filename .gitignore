@@ -1,0 +1,9 @@
+# Java
+*.class
+out/
+# VS Code
+.vscode/
+*.code-workspace
+# OS
+Thumbs.db
+.DS_Store
