@@ -18,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mrrknaidu117/DSA_codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0009-palindrome-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/mrrknaidu117/DSA_codes/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
