@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/mrrknaidu117/DSA_codes/tree/master/1708-design-parking-system) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mrrknaidu117/DSA_codes/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
