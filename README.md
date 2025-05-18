@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Linked List
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
