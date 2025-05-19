@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
