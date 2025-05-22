@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/mrrknaidu117/DSA_codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/mrrknaidu117/DSA_codes/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/mrrknaidu117/DSA_codes/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mrrknaidu117/DSA_codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
