@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/mrrknaidu117/DSA_codes/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/mrrknaidu117/DSA_codes/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
