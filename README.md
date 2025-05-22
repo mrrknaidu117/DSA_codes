@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mrrknaidu117/DSA_codes/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/mrrknaidu117/DSA_codes/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
