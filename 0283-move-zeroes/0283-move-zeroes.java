@@ -4,11 +4,13 @@ class Solution {
         for(int i = 0;i<nums.length;i++){
             if (nums[i] != 0){
                 nums[nonzero] = nums[i];
-                if(i != nonzero ){
-                    nums[i] = 0;
-                }
                 nonzero++;
             }
+        }
+
+        while(nonzero<nums.length){
+            nums[nonzero] = 0;
+            nonzero++;
         }
     }
 }
