@@ -5,7 +5,7 @@ class Solution {
             set1.add(nums1[i]);
         }
 
-        TreeSet<Integer> result = new TreeSet<>();
+        HashSet<Integer> result = new HashSet<>();
         for(int num : nums2){
             if(set1.contains(num)){
             result.add(num);
