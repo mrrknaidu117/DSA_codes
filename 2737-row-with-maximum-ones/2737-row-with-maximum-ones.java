@@ -22,3 +22,22 @@ class Solution {
         return result;
     }
 }
+/*class Solution {
+    public int[] rowAndMaximumOnes(int[][] mat) {
+        int maxRow = -1;
+        int m = mat.length;
+        int n = mat[0].length;
+        int j = n - 1;
+
+        for (int i = 0; i < m; i++) {
+            while (j >= 0 && mat[i][j] == 1) {
+                j--;
+                maxRow = i;
+            }
+        }
+
+        int ones = (maxRow == -1) ? 0 : (n - 1 - j);
+        return new int[]{maxRow == -1 ? 0 : maxRow, ones};
+    }
+}
+*/
