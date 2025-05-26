@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
+| [2737-row-with-maximum-ones](https://github.com/mrrknaidu117/DSA_codes/tree/master/2737-row-with-maximum-ones) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
+| [2737-row-with-maximum-ones](https://github.com/mrrknaidu117/DSA_codes/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
