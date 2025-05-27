@@ -126,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/mrrknaidu117/DSA_codes/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/mrrknaidu117/DSA_codes/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
