@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0948-sort-an-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mrrknaidu117/DSA_codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/2058-concatenation-of-array) |
