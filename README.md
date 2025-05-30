@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/mrrknaidu117/DSA_codes/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/2058-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrrknaidu117/DSA_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0898-transpose-matrix) |
