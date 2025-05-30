@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mrrknaidu117/DSA_codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mrrknaidu117/DSA_codes/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mrrknaidu117/DSA_codes/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/mrrknaidu117/DSA_codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0136-single-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mrrknaidu117/DSA_codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrrknaidu117/DSA_codes/tree/master/0240-search-a-2d-matrix-ii) |
