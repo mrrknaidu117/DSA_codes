@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/mrrknaidu117/DSA_codes/tree/master/1708-design-parking-system) |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mrrknaidu117/DSA_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/2058-concatenation-of-array) |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrrknaidu117/DSA_codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/mrrknaidu117/DSA_codes/tree/master/2737-row-with-maximum-ones) |
 ## Linked List
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mrrknaidu117/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrrknaidu117/DSA_codes/tree/master/0349-intersection-of-two-arrays) |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
 ## String
 |  |
 | ------- |
@@ -147,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrrknaidu117/DSA_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Tree
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
 <!---LeetCode Topics End-->
