@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-operations-on-tree](https://github.com/mrrknaidu117/DSA_codes/tree/master/2104-operations-on-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/mrrknaidu117/DSA_codes/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
