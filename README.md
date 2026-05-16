@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrrknaidu117/DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/mrrknaidu117/DSA_codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mrrknaidu117/DSA_codes/tree/master/0054-spiral-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrrknaidu117/DSA_codes/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrrknaidu117/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/mrrknaidu117/DSA_codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrrknaidu117/DSA_codes/tree/master/0349-intersection-of-two-arrays) |
